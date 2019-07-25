@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input(" "))
 a=1
 if(n==0):
     a==1
